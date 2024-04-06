@@ -28,12 +28,12 @@ This project aims to showcase Desa Wisata Palaes, located in Kecamatan Likupang 
         <img src="asset/gmbar0.png" alt="Gambar 0" style="width:100%;">
     </div>
     <div style="flex:50%; padding:5px;">
-        <img src="asset/gmbar5.png" alt="Gambar 5" style="width:100%;">
+        <img src="asset/gmbar1.png" alt="Gambar 5" style="width:100%;">
     </div>
 </div>
 <div style="display:flex;">
     <div style="flex:50%; padding:5px;">
-        <img src="asset/gmbar1.png" alt="Gambar 1" style="width:100%;">
+        <img src="asset/gmbar5.png" alt="Gambar 1" style="width:100%;">
     </div>
     <div style="flex:50%; padding:5px;">
         <img src="asset/gmbar2.png" alt="Gambar 2" style="width:100%;">
@@ -44,15 +44,15 @@ This project aims to showcase Desa Wisata Palaes, located in Kecamatan Likupang 
         <img src="asset/gmbar3.png" alt="Gambar 3" style="width:100%;">
     </div>
     <div style="flex:50%; padding:5px;">
-        <img src="asset/gmbar4.png" alt="Gambar 4" style="width:100%;">
+        <img src="asset/gmbar6.png" alt="Gambar 4" style="width:100%;">
     </div>
 </div>
 <div style="display:flex;">
     <div style="flex:50%; padding:5px;">
-        <img src="asset/gmbar6.png" alt="Gambar 6" style="width:100%;">
+        <img src="asset/gmbar4.png" alt="Gambar 6" style="width:100%;">
     </div>
     <div style="flex:50%; padding:5px;">
-        <img src="asset/gmbar100.png" alt="Gambar 4" style="width:100%;">
+        <img src="asset/gmbar7.png" alt="Gambar 4" style="width:100%;">
     </div>
 </div>
 
