@@ -1,6 +1,6 @@
 # HI FIVE Website
 
-This is the repository for the HI FIVE website project. HI FIVE is a group project dedicated to creating a website for Desa Wisata Palaes, providing information about the village, its attractions, and services. Through this project, my group mates and I aimed to apply software engineering principles and practices to produce a functional and easy-to-use website for educational purposes.
+This is the repository for the HI FIVE website project. HI FIVE is a group project dedicated to creating a website for Desa Wisata Palaes. Through this project, my group mates and I aimed to apply software engineering principles and practices to produce a functional and easy-to-use website for educational purposes.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This is the repository for the HI FIVE website project. HI FIVE is a group proje
 
 ## About
 
-This project aims to showcase Desa Wisata Palaes, located in Kecamatan Likupang Barat, Kabupaten Minahasa Utara, Provinsi Sulawesi Utara. The website provides information about the village's history, attractions, local governance, and contact details.
+This project aims to showcase Desa Wisata Palaes, located in Kecamatan Likupang Barat, Kabupaten Minahasa Utara, Provinsi Sulawesi Utara. The website provides information about the village's history, attractions, local governance, services, and contact details.
 
 ## Features
 
