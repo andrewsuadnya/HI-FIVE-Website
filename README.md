@@ -40,8 +40,6 @@ To view the website locally, simply download or clone the repository to your loc
 git clone https://github.com/your-username/HI-FIVE-Website.git
 ```
 
-Alternatively, you can access the live version of the website [here](#) (add link to live site).
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
