@@ -12,7 +12,7 @@ This is the repository for the HI FIVE website project. HI FIVE is a group proje
 
 ## About
 
-This project aims to showcase Desa Wisata Palaes, located in Kecamatan Likupang Barat, Kabupaten Minahasa Utara, Provinsi Sulawesi Utara. The website provides information about the village's history, attractions, local governance, services, and contact details.
+This project aims to showcase Desa Wisata Palaes, located in Kecamatan Likupang Barat, Kabupaten Minahasa Utara, Provinsi Sulawesi Utara, Indonesia. The website provides information about the village's history, attractions, local governance, services, and contact details.
 
 ## Features
 
