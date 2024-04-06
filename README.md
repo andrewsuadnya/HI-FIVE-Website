@@ -9,7 +9,6 @@ This is the repository for the HI FIVE website project. HI FIVE is a team dedica
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -52,10 +51,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Create a new Pull Request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
