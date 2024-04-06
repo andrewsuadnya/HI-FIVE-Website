@@ -37,7 +37,7 @@ This project aims to showcase Desa Wisata Palaes, located in Kecamatan Likupang 
 To view the website locally, simply download or clone the repository to your local machine and open the `index.html` file in your preferred web browser.
 
 ```bash
-git clone https://github.com/your-username/hifive-website.git
+git clone https://github.com/your-username/HI-FIVE-Website.git
 ```
 
 Alternatively, you can access the live version of the website [here](#) (add link to live site).
