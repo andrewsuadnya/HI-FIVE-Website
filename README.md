@@ -1,6 +1,6 @@
 # HI FIVE Website
 
-This is the repository for the HI FIVE website project. HI FIVE is a team dedicated to creating a website for Desa Wisata Palaes, providing information about the village, its attractions, and services.
+This is the repository for the HI FIVE website project. HI FIVE is a group project dedicated to creating a website for Desa Wisata Palaes, providing information about the village, its attractions, and services. Through this project, my group mates and I aimed to apply software engineering principles and practices to produce a functional and easy-to-use website for educational purposes.
 
 ## Table of Contents
 
